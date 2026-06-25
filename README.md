@@ -93,12 +93,13 @@ Selected Model:
 ##  Screenshots
 
 ### Home Page
+![Dashboard](Screnshots-Pro/churn_pic.png)
+![Dashboard](Screnshots-Pro/churn_.png)
 
-(Add screenshot here)
 
 ### Prediction Result
 
-(Add screenshot here)
+![Dashboard](Screnshots-Pro/result_churn.png)
 
 ---
 
@@ -107,7 +108,7 @@ Selected Model:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/guptapami6-design/customer_churn_prediction.git
 ```
 
 Install dependencies:
