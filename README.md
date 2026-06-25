@@ -4,7 +4,7 @@ A Machine Learning project that predicts whether a customer is likely to churn (
 
 ## 🚀 Live Demo
 
-[Streamlit App Link Here]
+https://customerchurnprediction-h5lvporl93nrdymkiufrdg.streamlit.app/
 
 ---
 
